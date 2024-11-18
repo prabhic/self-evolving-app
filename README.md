@@ -1,4 +1,7 @@
-I feel, AI based IDE's follow, traditiona style, didn't feel right after debugging the code that AI generated, and felt like more natural evolution is self evoling app, with ai at its core. 
+WIP
+I feel, AI based IDE's, fitting tradition AI into traditional IDE's.
+Didn't feel right after debugging the code that AI generated, as it keeps loosing context, at multiple levels and something is missing. and we are not using AI's full potential.
+Felt like more natural evolution is self evoling app, with ai at its core. 
 
 ---
 
